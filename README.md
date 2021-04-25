@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Node JS, React, Flutter, .Net**
 
-- 👨‍💻 All of my projects are available at [https://usman.pixbrainy.com/](https://usman.pixbrainy.com/)
-
 - 💬 Ask me about **C++, C#, Java**
 
 - 📫 How to reach me **anovius10@gmail.com**
