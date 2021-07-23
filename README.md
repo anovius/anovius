@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/_anovius" target="blank"><img src="https://img.shields.io/twitter/follow/_anovius?logo=twitter&style=for-the-badge" alt="_anovius" /></a> </p>
 
-- 🔭 I’m currently working on [Node JS](https://usman.pixbrainy.com/)
+- 🔭 I’m currently working as backend developer [Node JS](https://usman.pixbrainy.com/)
 
-- 🌱 I’m currently learning **Node JS, React, Express, .Net**
+- 🌱 I’m currently learning **Node JS, React, Express, Angular**
 
-- 💬 Ask me about **C++, C#, Java**
+- 💬 Ask me about **C++, C#, Java, JS**
 
 - 📫 How to reach me **anovius10@gmail.com**
 
