@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently working as full stack js developer(https://usman.pixbrainy.com/)
 
-- 🌱 I’m currently learning **Node JS, React, Express, Angular**
+- 🌱 I’m currently learning **MEAN, MERN**
 
-- 💬 Ask me about **C++, C#, Java, JS**
+- 💬 Ask me about **C++, C#, Java, JS, Node**
 
 - 📫 How to reach me **anovius10@gmail.com**
 
 - 📄 Know about my experiences [https://usman.pixbrainy.com/](https://usman.pixbrainy.com/)
 
-- ⚡ Fun fact **I am a bit talkative person who wants to learn.**
+- ⚡ Fun fact **Write text on daily basis**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anovius&show_icons=true&locale=en&layout=compact" alt="anovius" /></p>
