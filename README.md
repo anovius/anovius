@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usman Farooq</h1>
 <h3 align="center">A full stack web developer based in Lahore, Pakistan.</h3>
+<a href="https://app.daily.dev/anovius"><img src="https://api.daily.dev/devcards/b732436aa29447709025af1e86feb835.png?r=c0r" width="400" alt="Usman Farooq's Dev Card"/></a>
 
 <p align="left"> <a href="https://twitter.com/_anovius" target="blank"><img src="https://img.shields.io/twitter/follow/_anovius?logo=twitter&style=for-the-badge" alt="_anovius" /></a> </p>
 
