@@ -16,5 +16,3 @@
 - ⚡ Fun fact **Write text on daily basis**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anovius&show_icons=true&locale=en&layout=compact" alt="anovius" /></p>
-
-<a href="https://app.daily.dev/anovius"><img src="https://api.daily.dev/devcards/b732436aa29447709025af1e86feb835.png?r=c0r" width="400" alt="Usman Farooq's Dev Card"/></a>
