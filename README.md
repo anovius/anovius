@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently on **MEAN, MERN**
 
-- 💬 Ask me about **C++, C#, Java, JS, Node, React, Angular, DEVOPs **
+- 💬 Ask me about C++, C#, Java, JS, Node, React, Angular, DEVOPs
 
 - 📫 How to reach me **anovius10@gmail.com**
 
