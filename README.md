@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **anovius10@gmail.com**
 
-- 📄 Know about my experiences [https://usman.pixbrainy.com/](https://usman.pixbrainy.com/)
+- 📄 Know about my experiences [https://usman.pixbrainy.com/](https://usmandev.com/)
 
 - ⚡ **Writes text on text editor on daily basis**
 
