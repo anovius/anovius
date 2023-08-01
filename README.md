@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm anovius</h1>
+<h1 align="center">Hi 👋, I'm U. Farooq</h1>
 <h3 align="center">A full stack web developer based in Lahore, Pakistan.</h3>
 
 
